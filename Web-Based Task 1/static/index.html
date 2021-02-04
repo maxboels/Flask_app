@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title></title>
+    <link rel="stylesheet" href="static/css/bootstrap.min.css"/>
+  </head>
+  <body>
+    <div class="input-group input-group-lg">
+        <button type="button" class="btn btn-primary" onclick="calculate()">Calculate</button>
+        <input id="formula" type="text" class="form-control">
+    </div>
+  </body>
+  <script>
+    function calculate() {
+        let textbox = document.getElementById("formula");
+        let formula = textbox.value;
+        let url = 'http://localhost:5000/calculate'
+
+        fetch(url, {
+            method: 'POST',
+            body: formula
+        }).then(response => response.text()).then(value => textbox.value = value);
+    }
+</script> 
+</html>
