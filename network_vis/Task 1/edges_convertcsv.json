@@ -1,0 +1,162 @@
+[
+ {
+   "source_id": 966,
+   "target_id": 945,
+   "weights": 13
+ },
+ {
+   "source_id": 966,
+   "target_id": 879,
+   "weights": 10
+ },
+ {
+   "source_id": 649,
+   "target_id": 966,
+   "weights": 9
+ },
+ {
+   "source_id": 941,
+   "target_id": 966,
+   "weights": 8
+ },
+ {
+   "source_id": 966,
+   "target_id": 467,
+   "weights": 8
+ },
+ {
+   "source_id": 966,
+   "target_id": 1042,
+   "weights": 7
+ },
+ {
+   "source_id": 966,
+   "target_id": 785,
+   "weights": 7
+ },
+ {
+   "source_id": 966,
+   "target_id": 619,
+   "weights": 7
+ },
+ {
+   "source_id": 457,
+   "target_id": 966,
+   "weights": 7
+ },
+ {
+   "source_id": 639,
+   "target_id": 966,
+   "weights": 6
+ },
+ {
+   "source_id": 747,
+   "target_id": 966,
+   "weights": 6
+ },
+ {
+   "source_id": 185,
+   "target_id": 966,
+   "weights": 6
+ },
+ {
+   "source_id": 349,
+   "target_id": 966,
+   "weights": 6
+ },
+ {
+   "source_id": 966,
+   "target_id": 639,
+   "weights": 6
+ },
+ {
+   "source_id": 1157,
+   "target_id": 966,
+   "weights": 6
+ },
+ {
+   "source_id": 966,
+   "target_id": 1152,
+   "weights": 6
+ },
+ {
+   "source_id": 966,
+   "target_id": 517,
+   "weights": 6
+ },
+ {
+   "source_id": 966,
+   "target_id": 158,
+   "weights": 6
+ },
+ {
+   "source_id": 552,
+   "target_id": 966,
+   "weights": 6
+ },
+ {
+   "source_id": 966,
+   "target_id": 498,
+   "weights": 6
+ },
+ {
+   "source_id": 574,
+   "target_id": 966,
+   "weights": 6
+ },
+ {
+   "source_id": 966,
+   "target_id": 1157,
+   "weights": 5
+ },
+ {
+   "source_id": 966,
+   "target_id": 185,
+   "weights": 5
+ },
+ {
+   "source_id": 966,
+   "target_id": 1025,
+   "weights": 5
+ },
+ {
+   "source_id": 813,
+   "target_id": 966,
+   "weights": 5
+ },
+ {
+   "source_id": 792,
+   "target_id": 966,
+   "weights": 5
+ },
+ {
+   "source_id": 792,
+   "target_id": 652,
+   "weights": 5
+ },
+ {
+   "source_id": 966,
+   "target_id": 172,
+   "weights": 5
+ },
+ {
+   "source_id": 1009,
+   "target_id": 966,
+   "weights": 5
+ },
+ {
+   "source_id": 966,
+   "target_id": 3,
+   "weights": 5
+ },
+ {
+   "source_id": 879,
+   "target_id": 966,
+   "weights": 5
+ },
+ {
+   "source_id": 709,
+   "target_id": 966,
+   "weights": 5
+ }
+]
