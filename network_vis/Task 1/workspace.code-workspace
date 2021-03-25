@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "VS Code",
+			"path": "..\\.."
+		},
+		{
+			"name": "OOP",
+			"path": "..\\..\\..\\..\\Learning and Reading\\Programming\\OOP"
+		}
+	],
+	"settings": {}
+}
